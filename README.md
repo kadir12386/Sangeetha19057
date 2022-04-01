@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sangeetha.
 - 👀 I’m interested in UI design.
-- 🌱 I’m currently learning HTML,CSS and JavaScript.
+- 🌱 I know  HTML, CSS and JavaScript, React and Nodejs.
 
-I'm a web designer, good at UI design. I know Html ,CSS, JavaScript, React.  I have an experience in E-pub job. Now, I am looking for a job. 
+<!-- I'm a web designer, good at UI design. I know Html ,CSS, JavaScript, React.  I have an experience in E-pub job. Now, I am looking for a job.  -->
 
 <!--
 **Sangeetha19057/Sangeetha19057** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
